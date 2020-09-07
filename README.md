@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<strong>I am a big fan of c and c++</strong>
+
 <!--
 **Aanjishnu2004/Aanjishnu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
